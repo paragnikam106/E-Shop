@@ -1,10 +1,10 @@
 # Django Simple E-Commerce Website with Payment
 This is a simple e-commerce website built with Django (Python) and PayPal is added as payment processor.
 
-I've made this as a "Jewelry Shop" website but you can make any website you like.
+I've made this as a "E-Shop" website but you can make any website you like.
 
 
-[Project Demo on YouTube](https://www.youtube.com/watch?v=7IQwbIYfkNI "Django Simple E-Commerce Website")
+
 
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
@@ -33,33 +33,15 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 8. Reset Password
 
 
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
 
 
-## Donate
 
-**[PayPal](https://bit.ly/support-vijay-thapa)**
 
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 ## How to Install and Run this project?
 
-### Pre-Requisites:
-1. Install Git Version Control
-[ https://git-scm.com/ ]
 
-2. Install Python Latest Version
-[ https://www.python.org/downloads/ ]
-
-3. Install Pip (Package Manager)
-[ https://pip.pypa.io/en/stable/installing/ ]
-
-*Alternative to Pip is Homebrew*
 
 ### Installation
 **1. Create a Folder where you want to save the project**
@@ -96,12 +78,10 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/vijaythapa333/django-jewelry-shop.git
+$  git clone https://github.com/paragnikam106/E-Shop.git
 ```
 
-Then, Enter the project
-```
-$  cd django-jewelry-shop
+
 ```
 
 **4. Install Requirements from 'requirements.txt'**
@@ -148,7 +128,5 @@ Then Add Email, Username and Password
 
 
 
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
+
 
